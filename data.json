@@ -2,7 +2,7 @@
   {
     "templatesList": [
       {
-        "templateItemID":"1"
+        "templateItemID":"1",
         "templateItemName": "Logic app with Custom API",
         "templateItemDescription": "<p>This template deploys a complete LAMP stack, then installs and initializes WordPress.</p><p>Once the deployment is finished, you need to go to http://fqdn.of.your.vm/wordpress/ to finish the configuration, create an account, and get started with WordPress.</p>",
         "templateItemJson":{
