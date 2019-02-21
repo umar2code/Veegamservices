@@ -1,10 +1,13 @@
 {
 "resourcesList":
-[{":"resourcesList",resourceItemID":"1",
+[{
+"resourceItemID":"1",
 "resourceItemName":"VM",
 "resourceItemImage":"https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjCl-rA_MzgAhVKf30KHWVCDSEQjRx6BAgBEAU&url=https%3A%2F%2Fvcarenetwork.com%2Fcopy-of-vcn-broch&psig=AOvVaw1HjLeeCOf-oEWWJRkqZjVw&ust=1550843530377111"
 },
-{"resourceItemID":"1",
+{"resourceItemID":"2",
 "resourceItemName":"VM",
 "resourceItemImage":"https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjCl-rA_MzgAhVKf30KHWVCDSEQjRx6BAgBEAU&url=https%3A%2F%2Fvcarenetwork.com%2Fcopy-of-vcn-broch&psig=AOvVaw1HjLeeCOf-oEWWJRkqZjVw&ust=1550843530377111"
-}]}
+}
+]
+}
