@@ -2,11 +2,11 @@
 "resourcesList":
 [{
 "resourceItemID":"1",
-"resourceItemName":"VM",
+"resourceItemName":"virtual Machine",
 "resourceItemImage":"http://poshdb.com/wp-content/uploads/2015/08/VM-Icon.png"
 },
 {"resourceItemID":"2",
-"resourceItemName":"VM",
+"resourceItemName":"virtual Machine",
 "resourceItemImage":"http://poshdb.com/wp-content/uploads/2015/08/VM-Icon.png"
 }
 ]
